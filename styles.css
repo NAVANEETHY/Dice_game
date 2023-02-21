@@ -1,0 +1,13 @@
+body {
+background-color: cadetblue;
+}
+h1 {
+ color: black;
+ font-style: italic;
+ font-size:70px;
+}
+table{
+ color:darkviolet;
+ font-style:oblique;
+ font-size: 40px;
+}
